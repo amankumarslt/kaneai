@@ -1,0 +1,6 @@
+# LambdaTest AI Cloud Configuration
+project_id: "01JXM6YQFQWKDZ6WR751DS4ZR8"
+folder_id: "01JY4EDS7K66P9SHNX0X3BN7NC"
+assignee: your_user_id
+environment_id: environment_id
+test_url: "https://www.lambdatest.com/"
